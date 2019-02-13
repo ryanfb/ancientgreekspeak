@@ -61,7 +61,9 @@ phoneme_table = {
 'φ': 'f',
 'χ': 'k',
 'ψ': 'ps',
-'ω': 'OW'
+'ω': 'OW',
+';': '?',
+'·': ';'
 }
 
 ARGF.each_line do |line|

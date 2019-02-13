@@ -22,7 +22,7 @@ accent_table = {
 }
 
 digraph_table = {
-'γγ': 'N',
+'γγ': 'Ng',
 'γκ': 'Nk',
 'γμ': 'Nm',
 'γξ': 'Nks',
